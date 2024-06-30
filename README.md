@@ -2,7 +2,7 @@
 
 [Original em inglês](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86).
 
-[Traduzido Llama-3-portuguese-Tom-cat-8b-instruct](https://huggingface.co/noxinc/Llama-3-portuguese-Tom-cat-8b-instruct-Q8_0-GGUF-PTBR).
+[Traduzido com Llama-3-portuguese-Tom-cat-8b-instruct](https://huggingface.co/noxinc/Llama-3-portuguese-Tom-cat-8b-instruct-Q8_0-GGUF-PTBR).
 
 Recentemente foi migrado de Codepen.io para markdown. Créditos para [David Conner](https://github.com/davidicus).
 
